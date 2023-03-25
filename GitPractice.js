@@ -5,3 +5,5 @@ console.log('first commit');
 console.log('develop branch');
 
 console.log('feature/dev branch');
+
+console.log('merge feature/dev branch > develop');
